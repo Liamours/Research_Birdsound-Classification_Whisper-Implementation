@@ -1,6 +1,5 @@
 # Research_Birdsound-Classification_Whisper-Implementation
 
-Run in Google Colab
 Untuk clone repo ini, run di google colab:
 
 ```
